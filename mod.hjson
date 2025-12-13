@@ -1,0 +1,8 @@
+name: "reversed-musics"
+displayName; "Reversed Musics"
+author: "WantechFan"
+description: "Reverses all Mindustry musics."
+version: "1.0"
+minGameVersion: "146"
+hidden: true
+subtitle; "Creepy i guess."
